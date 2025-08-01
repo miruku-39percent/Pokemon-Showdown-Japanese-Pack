@@ -1,7 +1,7 @@
 # Pokemon Showdown 日本語化（Gen9DLC対応済み）
 
 > [!WARNING]
-> 現在Alphaテスト中のため、動作が不安定です。また、全プラットフォーム動作未確認です。(PRやIssue大歓迎です！！！！！！！！)
+> 現在Alphaテスト中のため、動作が不安定です。また、一部のプラットフォームでは動作未確認です。(PRやIssue大歓迎です！！！！！！！！)
 
 > [!NOTE]
 > ※参考したコードのライセンスはGPL2.0-or-laterとMITだったため、本バージョンはGPL3.0-or-laterとさせていただきます
@@ -28,6 +28,21 @@
 <a href="https://github.com/miruku-39percent/Pokemon-Showdown-Japanese-Pack/blob/main/Showdown_Japanese_for_PCbrowser.js"><img src="https://img.shields.io/badge/9.0.0alpha-こちら-green"/></a>
 をダウンロードし、TempermonkeyやFirefoxに導入してください。
 
-### Apple Shortcut
+### Apple Shortcut(Tempermonkeyに金を使いたくないアップルユーザーへ)
 
-Coming Soon...
+次のステップに沿ってください
+
+１．iPhone/iPad内に翻訳ファイルとjQueryを保存してください
+
+２．<a href="https://www.icloud.com/shortcuts/570de535160f428cae55de0b380bed0d"><img src="https://img.shields.io/badge/ここ-green"/></a>
+からショートカットを入れます
+
+３．ショートカット編集画面に入って、ファイルのところをさっき入れたjQueryと翻訳ファイルを入れてください
+
+４．Safariで<img src="https://help.apple.com/assets/67EAFA00341984D9AE00EC98/67EAFA0586243791BA0154F5/ja_JP/748a151e2276ad5df4d03ec8d4506bf7.png" alt="共有ボタン" height="20" width="15" originalimagename="GlobalArt/IL_Share.png">マークで共有ウィンドウ開いて、アクションを編集...を押してください。
+
+５．左の緑の＋マークを押して、よく使う項目に入れてください（入れたくなければスキップしてもよい）
+
+６．毎回Pokemon Showdownを起動するときに、<img src="https://help.apple.com/assets/67EAFA00341984D9AE00EC98/67EAFA0586243791BA0154F5/ja_JP/748a151e2276ad5df4d03ec8d4506bf7.png" alt="共有ボタン" height="20" width="15" originalimagename="GlobalArt/IL_Share.png">にてスクリプトを実行してください。
+> [!WARNING]
+> いまはリロードする度にスクリプトを実行しなければならないバグが確認されています、直すまでしばらく我慢してください。申し訳ありません。
