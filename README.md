@@ -30,7 +30,7 @@
 <a href="https://github.com/miruku-39percent/Pokemon-Showdown-Japanese-Pack/blob/main/Showdown_Japanese_for_PCbrowser.js"><img src="https://img.shields.io/badge/9.0.0alpha-こちら-green"/></a>
 をダウンロードし、TempermonkeyやFirefoxに導入してください。
 
-### Apple Shortcut(Tempermonkeyに金を使いたくないアップルユーザーへ)
+### Apple Shortcut(Tempermonkeyに金を使いたくないAppleユーザーへ)
 
 次のステップに沿ってください
 
@@ -41,7 +41,7 @@
 
 ３．ショートカット編集画面に入って、ファイルのところをさっき入れたjQueryと翻訳ファイルを入れてください
 
-４．Safariで<img src="https://help.apple.com/assets/67EAFA00341984D9AE00EC98/67EAFA0586243791BA0154F5/ja_JP/748a151e2276ad5df4d03ec8d4506bf7.png" alt="共有ボタン" height="20" width="15" originalimagename="GlobalArt/IL_Share.png">マークで共有ウィンドウ開いて、アクションを編集...を押してください。
+４．Safariで<img src="https://help.apple.com/assets/67EAFA00341984D9AE00EC98/67EAFA0586243791BA0154F5/ja_JP/748a151e2276ad5df4d03ec8d4506bf7.png" alt="共有ボタン" height="20" width="15" originalimagename="GlobalArt/IL_Share.png">マークから共有ウィンドウ開いて、アクションを編集...を押してください。
 
 ５．左の緑の＋マークを押して、よく使う項目に入れてください（入れたくなければスキップしてもよい）
 
