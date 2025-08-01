@@ -36,7 +36,7 @@
 
 １．iPhone/iPad内に翻訳ファイルとjQueryを保存してください
 
-２．<a href="https://www.icloud.com/shortcuts/570de535160f428cae55de0b380bed0d"><img src="https://img.shields.io/badge/ここ-green"/></a>
+２．<a href="https://www.icloud.com/shortcuts/e5f6d19fd57c47a8b5494bf19f18a783"><img src="https://img.shields.io/badge/ここ-green"/></a>
 からショートカットを入れます
 
 ３．ショートカット編集画面に入って、ファイルのところをさっき入れたjQueryと翻訳ファイルを入れてください
