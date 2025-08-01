@@ -39,7 +39,7 @@
 ２．<a href="https://www.icloud.com/shortcuts/e5f6d19fd57c47a8b5494bf19f18a783"><img src="https://img.shields.io/badge/ここ-green"/></a>
 からショートカットを入れます
 
-３．ショートカット編集画面に入って、ファイルのところをさっき入れたjQueryと翻訳ファイルを入れてください
+３．ショートカット編集画面に入って、ファイルのところでさっき入れたjQueryと翻訳ファイルを入れてください
 
 ４．Safariで<img src="https://help.apple.com/assets/67EAFA00341984D9AE00EC98/67EAFA0586243791BA0154F5/ja_JP/748a151e2276ad5df4d03ec8d4506bf7.png" alt="共有ボタン" height="20" width="15" originalimagename="GlobalArt/IL_Share.png">マークから共有ウィンドウ開いて、アクションを編集...を押してください。
 
