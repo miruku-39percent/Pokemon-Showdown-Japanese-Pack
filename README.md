@@ -27,7 +27,7 @@
 
 ### Tempermonkey経由/Firefox：
 
-<a href="https://github.com/miruku-39percent/Pokemon-Showdown-Japanese-Pack/blob/main/Showdown_Japanese_for_PCbrowser.js"><img src="https://img.shields.io/badge/9.0.0alpha-こちら-green"/></a>
+<a href="https://github.com/miruku-39percent/Pokemon-Showdown-Japanese-Pack/blob/main/Showdown_Japanese_for_PCbrowser.js"><img src="https://img.shields.io/badge/9.0.3alpha-こちら-green"/></a>
 をダウンロードし、TempermonkeyやFirefoxに導入してください。
 
 ### Apple Shortcut(Tempermonkeyに金を使いたくないAppleユーザーへ)
