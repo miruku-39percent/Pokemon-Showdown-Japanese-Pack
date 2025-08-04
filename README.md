@@ -3,11 +3,25 @@
 > [!WARNING]
 > 現在Alphaテスト中のため、動作が不安定です。また、一部のプラットフォームでは動作未確認です。(PRやIssue大歓迎です！！！！！！！！)
 > 
-> 一部の部分はまだ訳していません、ご了承ください
 
 > [!NOTE]
 > ※参考したコードのライセンスはGPL2.0-or-laterとMITだったため、本バージョンはGPL3.0-or-laterとさせていただきます
-
+>
+> まだ翻訳していない部分
+>
+> ・チームビルダー（2％）
+>
+> ・システム（設定、チャット、フレンド、チームUpload、通報、リプレー、ポリシー）
+>
+> ・どうぐ
+>
+> ・~ポケモン~
+>
+> ・~わざ~
+>
+> ・わざテキスト
+>
+> ・対戦テキスト
 
 ## 原作者
 
@@ -27,7 +41,7 @@
 
 ### Tempermonkey経由/Firefox：
 
-<a href="https://github.com/miruku-39percent/Pokemon-Showdown-Japanese-Pack/blob/main/Showdown_Japanese_for_PCbrowser.js"><img src="https://img.shields.io/badge/9.0.3alpha-こちら-green"/></a>
+<a href="https://github.com/miruku-39percent/Pokemon-Showdown-Japanese-Pack/blob/main/Showdown_Japanese_for_PCbrowser.js"><img src="https://img.shields.io/badge/9.0.5alpha-こちら-green"/></a>
 をダウンロードし、TempermonkeyやFirefoxに導入してください。
 
 ### Apple Shortcut(Tempermonkeyに金を使いたくないAppleユーザーへ)
